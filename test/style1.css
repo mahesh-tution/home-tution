@@ -1,0 +1,46 @@
+.dot{
+    border-top: 17px dotted #60a9a6;
+    width:5%;
+    margin:auto;
+    margin-bottom:1.5rem;
+    margin-top: 1.5rem;
+  }
+  .focus{
+      color:#02576c;
+      font-size: 5rem;
+      font-family: 'Caveat Brush', cursive;
+      text-align: center;
+      margin:3rem; 
+      margin-top: 1rem;
+  }
+  /* for icon */
+  .icon{
+      text-align: center;
+    margin:0 0 5rem;
+}
+  /* credit for pics*/
+  .credit{
+    margin-top: 20px;
+    font-size: 10px;
+    color: whitesmoke;
+    padding: 5px;
+    position: relative;left: 0;bottom: 0;width: 100%;background-color:#131c33;text-align: center;
+  }
+  /* for marketing*/
+  .marketing .col-lg-4 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+  .marketing h2 {
+    font-weight: 400;
+    font-family: 'Merienda', cursive;
+
+  }
+  .marketing .col-lg-4 p {
+    margin-right: .75rem;
+    margin-left: .75rem;
+    font-size: 17px;
+    font-family: 'Pontano Sans', sans-serif;
+    
+  }
+  
